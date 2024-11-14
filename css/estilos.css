@@ -44,7 +44,10 @@ height: 120px;
 .menuSuperior li{
 display: inline;
 padding: 5px;
-border-right: solid 2px black;
+
+}
+.bordeDerecho li{
+    border-right: solid 2px black;
 }
 .menuSuperior{
 text-transform: uppercase;
